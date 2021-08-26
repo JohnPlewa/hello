@@ -12,6 +12,7 @@
 
      printf("John Plewa!\n");
      printf("Undecided\n");
-
+     printf("Logan Bopp\n");
+     printf("Computer Science\n")
      return 0;
  }
